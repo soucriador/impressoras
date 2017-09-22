@@ -1,2 +1,2 @@
-# impressoras
-Arquivos de instalação / configuração das impressoras do grupo
+# Datacard
+configuracao da impressora
